@@ -1,6 +1,6 @@
 # Convolutional Neural Networks for Acute Myeloid Leukemia
 
-![Peter Moss Acute Myeloid Leukemia Research Project](Images/Banner-Social.jpg)
+![Peter Moss Acute Myeloid Leukemia Research Project](../Images/Banner-Social.jpg)
 
 Papers on Convolutional Neural Networks for Acute Myeloid Leukemia. [List of papers](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia "List of papers") provided by Ho Leung Ng, Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
