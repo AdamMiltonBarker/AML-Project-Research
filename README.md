@@ -49,7 +49,7 @@ Acute Myeloid Leukemia Detection System with Intel technologies.
 | [Android](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Android "Android") | An Android application for managing and classifying data. Uses facial recognition for authentication. | 
 | [Security](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Security "Security") | A REST API hosting an endpoint for authentication using Siamese Neural Networks | 
 | [Server](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Server "Server") | A local server hosting a web based UI for managing and classifying data. Uses facial recognition for authentication. | 
-| [AML Classifier](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Server "AML Classifier") | A REST API hosting an endpoint for classifying images using Convolutional Neural Networks. |  
+| [Classifier](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Server "Classifier") | A REST API hosting an endpoint for classifying images using Convolutional Neural Networks. |  
 | [Chatbot](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Chatbot "Chatbot") | A REST API hosting an endpoint for Natural Language Understanding. Trained on knowledge of AML. | 
 
 # Research papers
