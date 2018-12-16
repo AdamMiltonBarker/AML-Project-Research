@@ -31,7 +31,7 @@ We will keep an up to date record of public datasets that we come across whilst 
 
 | Papers  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Leukemia Blood Cell Image Classification Using Convolutional Neural Network | T. T. P. Thanh, Caleb Vununu, Sukhrob Atoev, Suk-Hwan Lee, and Ki-Ryong Kwon  | [Paper Link](http://www.ijcte.org/vol10/1198-H0012.pdf "Paper Link") |
+| Acute Lymphoblastic Leukemia Image Database for Image Processing | The [Acute Lymphoblastic Leukemia Image Database for Image Processing](https://homes.di.unimi.it/scotti/all/) dataset is used for this project. The dataset was created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/). You will need to follow the steps outlined [here](https://homes.di.unimi.it/scotti/all/#download) to gain access to the dataset. | [Dataset](https://homes.di.unimi.it/scotti/all/#download "Dataset") |
 
 ## Datasets used in project
 Datasets used during project research and development. [List of datasets](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Project-Datasets.md "List of datasets").
