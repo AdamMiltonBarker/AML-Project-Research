@@ -1,4 +1,4 @@
-# Peter Moss Acute Myeloid Leukemia Research Project Research Papers
+# Research Papers
 ![Peter Moss Acute Myeloid Leukemia Research Project](../Media/Images/Banner-Social.jpg)
 
 We will keep an up to date record of public research papers that we come across whilst developing the projects that make up the AML Research Project. 
