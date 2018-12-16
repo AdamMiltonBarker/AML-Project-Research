@@ -6,7 +6,7 @@ We will keep an up to date record of public research papers that we come across 
 | Papers  | Description | Link | 
 | ------------- | ------------- | ------------- |
 |  Convolutional Neural Networks for Acute Myeloid Leukemia | Lists of research papers on Convolutional Neural Networks for Acute Myeloid Leukemia |  [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "List of papers") |
-| Leukemia Blood Cell Image Classification Using Convolutional Neural Network | Paper on Leukemia Blood Cell Image Classification Using Convolutional Neural Network |  [List of papers](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9PAG39NJ "List of papers") |
+| Leukemia Blood Cell Image Classification Using Convolutional Neural Network | T. T. P. Thanh, Caleb Vununu, Sukhrob Atoev, Suk-Hwan Lee, and Ki-Ryong Kwon  | [Paper](http://www.ijcte.org/vol10/1198-H0012.pdf "Paper") |
 
 # Contributing
 We welcome contributions of the project. Please read [CONTRIBUTING.md](https://github.com/AMLResearchProject/AML-Project-Research/blob/master/CONTRIBUTING.md "CONTRIBUTING.md") for details on our code of conduct, and the process for submitting pull requests.

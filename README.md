@@ -37,8 +37,8 @@ We will keep an up to date record of public research papers that we come across 
 
 | Papers  | Description | Link | 
 | ------------- | ------------- | ------------- |
-|  Research Papers | Lists of research papers discovered during R&D | [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Papers.md "List of papers") |
-|  Convolutional Neural Networks for Acute Myeloid Leukemia | Lists of research papers on Convolutional Neural Networks for Acute Myeloid Leukemia |  [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "List of papers") |
+|  Research Papers | Lists of research papers discovered during R&D | [List of papers](https://github.com/AMLResearchProject/AML-Project-Research/blob/master/Papers/Research-Papers.md "List of papers") |
+|  Convolutional Neural Networks for Acute Myeloid Leukemia | Lists of research papers on Convolutional Neural Networks for Acute Myeloid Leukemia |  [List of papers](https://github.com/AMLResearchProject/AML-Project-Research/blob/master/Papers/CNN-AML-Papers.md "List of papers") |
 
 ## Papers used in project
 Papers used during project research and development. 
@@ -52,7 +52,7 @@ We will keep an up to date record of public datasets that we come across whilst 
 
 | Dataset  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Research Datasets | Lists of datasets discovered during R&D | [List of datasets](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Datasets.md "List of datasets") |
+| Research Datasets | Lists of datasets discovered during R&D | [List of datasets](https://github.com/AMLResearchProject/AML-Project-Research/blob/master/Papers/Research-Datasets.md "List of datasets") |
 
 ## Datasets used in project
 Datasets used during project research and development. .
