@@ -13,6 +13,7 @@ The AML Research Project is being organized and developed by a team of volunteer
 | [Amita Kapoor](https://github.com/amita-kapoor "Amita Kapoor")   | Associate Professor @ Delhi University, New Dehli, India |
 
 # Project structure
+The following lays out the current project structure:
 
 ## AML Project Research
 A public repo of open Acute Myeloid Leukemia research papers  discovered during project R&D.
@@ -24,16 +25,32 @@ A public repo of open Acute Myeloid Leukemia research papers  discovered during 
 | [Datasets](https://github.com/AMLResearchProject/AML-Project-Research/tree/master/Datasets "Datasets")  | A database of open datasets on Acute Myeloid Leukemia | 
 
 ## AML Classifiers
+Research and development projects  for detection/early detection of Acute Myeloid Leukemia.
 [Related Repository](https://github.com/AMLResearchProject/AML-Classifiers "Related Repository") 
 
 | Project  | Description |
 | ------------- | ------------- | 
+| [Python](https://github.com/AMLResearchProject/AML-Classifiers/tree/master/Python "Python") | Classifiers programmed in Python | 
+| [Java](https://github.com/AMLResearchProject/AML-Classifiers/tree/master/Python "Java") | Classifiers programmed in Java | 
 
 ## AML Drug Discovery
+Research and development projects for drug discovery for Acute Myeloid Leukemia.
 [Related Repository](https://github.com/AMLResearchProject/AML-Drug-Discovery "Related Repository") 
 
 | Project  | Description |
 | ------------- | ------------- | 
+
+## AML Detection System
+Acute Myeloid Leukemia Detection System with Intel technologies.
+[Related Repository](https://github.com/AMLResearchProject/AML-Detection-System "Related Repository") 
+
+| Project  | Description |
+| ------------- | ------------- | 
+| [Android](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Android "Android") | An Android application for managing and classifying data. Uses facial recognition for authentication. | 
+| [Security](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Security "Security") | A REST API hosting an endpoint for authentication using Siamese Neural Networks | 
+| [Server](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Server "Server") | A local server hosting a web based UI for managing and classifying data. Uses facial recognition for authentication. | 
+| [AML Classifier](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Server "AML Classifier") | A REST API hosting an endpoint for classifying images using Convolutional Neural Networks. |  
+| [Chatbot](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Chatbot "Chatbot") | A REST API hosting an endpoint for Natural Language Understanding. Trained on knowledge of AML. | 
 
 # Research papers
 We will keep an up to date record of public research papers that we come across whilst developing the projects that make up the AML Research Project. 
