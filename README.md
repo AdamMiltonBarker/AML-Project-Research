@@ -53,7 +53,7 @@ Acute Myeloid Leukemia Detection System with Intel technologies.
 | [Chatbot](https://github.com/AMLResearchProject/AML-Detection-System/tree/master/Chatbot "Chatbot") | A REST API hosting an endpoint for Natural Language Understanding. Trained on knowledge of AML. | 
 
 # Research papers
-We will keep an up to date record of public research papers that we come across whilst developing the projects that make up the AML AI Research Project. 
+We will keep an up to date record of public research papers that we come across whilst developing the projects that make up the AML AI Research Project.
 
 | Papers  | Description | Link | 
 | ------------- | ------------- | ------------- |
@@ -69,6 +69,10 @@ Papers used during project research and development.
 
 # Datasets
 We will keep an up to date record of public datasets that we come across whilst developing the AML AI Research Project. 
+
+| Dataset  | Description | Link | 
+| ------------- | ------------- | ------------- |
+| Research Datasets | Lists of datasets discovered during R&D | [List of datasets](https://github.com/AMLResearchProject/AML-Project-Research/blob/master/Papers/Research-Datasets.md "List of datasets") |
 
 | Dataset  | Description | Link | 
 | ------------- | ------------- | ------------- |
