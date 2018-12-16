@@ -37,7 +37,7 @@ We will keep an up to date record of public research papers that we come across 
 
 | Papers  | Description | Link | 
 | ------------- | ------------- | ------------- |
-|  Research Papers | Lists of research papers discovered during R&D [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Papers.md "List of papers") |
+|  Research Papers | Lists of research papers discovered during R&D | [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Papers.md "List of papers") |
 |  Convolutional Neural Networks for Acute Myeloid Leukemia | Lists of research papers on Convolutional Neural Networks for Acute Myeloid Leukemia |  [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "List of papers") |
 
 ## Papers used in project
@@ -52,14 +52,14 @@ We will keep an up to date record of public datasets that we come across whilst 
 
 | Dataset  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Acute Myeloid Leukemia Research Project Datasets Database | List of datasets related to Acute Myeloid Leukemia | [List of datasets](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Datasets.md "List of datasets") |
+| Research Datasets | Lists of datasets discovered during R&D | [List of datasets](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Datasets.md "List of datasets") |
 
 ## Datasets used in project
 Datasets used during project research and development. .
 
 | Dataset  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Acute Lymphoblastic Leukemia Image Database for Image Processing | The [Acute Lymphoblastic Leukemia Image Database for Image Processing](https://homes.di.unimi.it/scotti/all/) dataset is used for this project. The dataset was created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/). You will need to follow the steps outlined [here](https://homes.di.unimi.it/scotti/all/#download) to gain access to the dataset. | [Dataset](https://homes.di.unimi.it/scotti/all/#download "Dataset") |
+| Acute Lymphoblastic Leukemia Image Database for Image Processing | Created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/).  | [Dataset](https://homes.di.unimi.it/scotti/all/#download "Dataset") |
 
 # Contributing
 We welcome contributions of the project. Please read [CONTRIBUTING.md](https://github.com/AMLResearchProject/AML-Project-Research/blob/master/CONTRIBUTING.md "CONTRIBUTING.md") for details on our code of conduct, and the process for submitting pull requests.
