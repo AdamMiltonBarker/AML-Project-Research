@@ -3,7 +3,7 @@
 
 Papers on Convolutional Neural Networks for Acute Myeloid Leukemia. [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "List of papers") provided by Ho Leung Ng, Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
-| Papers  | Description | Link | 
+| Paper  | Link | 
 | ------------- | ------------- |
 |  Leukemia Blood Cell Image Classification Using Convolutional Neural Network |  [Paper](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9PAG39NJ "Paper") |
 |  Classification of acute myelogenous leukemia in blood microscopic images using supervised classifier |  [Paper](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9XX3M296 "Paper") |
