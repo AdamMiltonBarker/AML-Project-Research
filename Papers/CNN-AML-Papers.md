@@ -1,5 +1,5 @@
-# RESEARCH: Convolutional Neural Networks for Acute Myeloid Leukemia
-![RESEARCH: Convolutional Neural Networks for Acute Myeloid Leukemia](../Media/Images/Banner-Social.jpg)
+# Convolutional Neural Networks for Acute Myeloid Leukemia
+![Convolutional Neural Networks for Acute Myeloid Leukemia](../Media/Images/Banner-Social.jpg)
 
 Papers on Convolutional Neural Networks for Acute Myeloid Leukemia. [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "List of papers") provided by Ho Leung Ng, Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
