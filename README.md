@@ -12,12 +12,33 @@ The AML Research Project is being organized and developed by a team of volunteer
 | [John LaRocco](https://github.com/holeung "John LaRocco")   | Former Humai Head of Engineering, LA, USA |
 | [Amita Kapoor](https://github.com/amita-kapoor "Amita Kapoor")   | Associate Professor @ Delhi University, New Dehli, India |
 
+# Project structure
+
+## AML Project Research
+[Related Repository](https://github.com/AMLResearchProject/AML-Project-Research "Related Repository") 
+
+| Project  | Description |
+| ------------- | ------------- | 
+
+## AML Classifiers
+[Related Repository](https://github.com/AMLResearchProject/AML-Classifiers "Related Repository") 
+
+| Project  | Description |
+| ------------- | ------------- | 
+
+## AML Drug Discovery
+[Related Repository](https://github.com/AMLResearchProject/AML-Drug-Discovery "Related Repository") 
+
+| Project  | Description |
+| ------------- | ------------- | 
+
 # Research papers
-We will keep an up to date record of public research papers that we come across whilst developing the AML Research Project. 
+We will keep an up to date record of public research papers that we come across whilst developing the projects that make up the AML Research Project. 
 
 | Papers  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Convolutional Neural Networks for Acute Myeloid Leukemia  | List of papers/links on Convolutional Neural Networks for Acute Myeloid Leukemia | [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Project-Papers.md "List of papers") |
+|  Research Papers | Lists of research papers discovered during R&D [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Papers.md "List of papers") |
+|  Convolutional Neural Networks for Acute Myeloid Leukemia | Lists of research papers on Convolutional Neural Networks for Acute Myeloid Leukemia |  [List of papers](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "List of papers") |
 
 ## Papers used in project
 Papers used during project research and development. 
@@ -29,14 +50,14 @@ Papers used during project research and development.
 # Datasets
 We will keep an up to date record of public datasets that we come across whilst developing the AML Research Project. 
 
-| Papers  | Description | Link | 
+| Dataset  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Acute Lymphoblastic Leukemia Image Database for Image Processing | The [Acute Lymphoblastic Leukemia Image Database for Image Processing](https://homes.di.unimi.it/scotti/all/) dataset is used for this project. The dataset was created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/). You will need to follow the steps outlined [here](https://homes.di.unimi.it/scotti/all/#download) to gain access to the dataset. | [Dataset](https://homes.di.unimi.it/scotti/all/#download "Dataset") |
+| Acute Myeloid Leukemia Research Project Datasets Database | List of datasets related to Acute Myeloid Leukemia | [List of datasets](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Research-Datasets.md "List of datasets") |
 
 ## Datasets used in project
-Datasets used during project research and development. [List of datasets](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/Project-Datasets.md "List of datasets").
+Datasets used during project research and development. .
 
-| Papers  | Description | Link | 
+| Dataset  | Description | Link | 
 | ------------- | ------------- | ------------- |
 | Acute Lymphoblastic Leukemia Image Database for Image Processing | The [Acute Lymphoblastic Leukemia Image Database for Image Processing](https://homes.di.unimi.it/scotti/all/) dataset is used for this project. The dataset was created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/). You will need to follow the steps outlined [here](https://homes.di.unimi.it/scotti/all/#download) to gain access to the dataset. | [Dataset](https://homes.di.unimi.it/scotti/all/#download "Dataset") |
 
